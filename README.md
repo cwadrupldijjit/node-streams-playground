@@ -1,0 +1,1 @@
+This repo was made because I thought I knew how to use Node streams, but apparently there are several misconceptions that I've believed were true.  As such, I am playing around with streams to make sure I actually understand how they work.
